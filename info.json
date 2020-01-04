@@ -1,0 +1,7 @@
+{	
+	"auth_json_path" : "GOOGLE SHEET API JSON FILE PATH",
+	"spreadsheet_key" : "SPREADSHEET KEY",
+
+	"client_id" : "IMGUR CLIENT ID",
+	"client_secret" : "IMGUR CLIENT SECRET"
+}
