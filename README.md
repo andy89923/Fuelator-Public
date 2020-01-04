@@ -86,8 +86,8 @@ https://docs.google.com/spreadsheets/d/[SpreadSheetKey]/edit#gid=0
 
 ### Setup
 * clone this Repositories
-* Modify [info.json](https://github.com/andy89923/Fuelator-Public/blob/master/echobot/Model/info.json) file to your own api key
-* Modify [settings.py]() to your Line Secret, token
+* Modify [info.json](https://github.com/andy89923/Fuelator-Public/blob/master/info.json) file to your own api key
+* Modify [settings.py](https://github.com/andy89923/Fuelator-Public/blob/master/line_bot/settings.py) to your Line Secret, token
 * Run this command in Fuelator/
 ```
 (sudo) python3.7 manage.py runserver
