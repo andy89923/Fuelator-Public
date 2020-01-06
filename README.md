@@ -134,6 +134,32 @@ Server -> Line: Report url
 Line -> User: "Report.png"
 ```
 
+Usage
+---
+Now is accept two kind command
+
+### Add record
+#### Command
+```
+[FuelType] [Liters] [Mileage]
+```
+#### Explain
+```
+[FuelType] = ["92", "95", "98", "d"]
+[Liters]   = how many liters you add this time
+[Mileage]  = total mileage of you car on your car's dashboard
+```
+
+### Ask for report
+#### Command
+```
+["C", "P"]
+```
+#### Explain
+```
+["C" or "c"] -> get your report of how much money you spend on fuel
+["P" or "p"] -> get your report of car’s fuel consumption
+```
 
 Project Timeline
 ---
@@ -157,3 +183,4 @@ Send an email to ctfang.cs08@nctu.edu.tw
 :::
 
 ###### tags: `Project` `Documentation`
+
